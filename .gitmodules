@@ -1,3 +1,6 @@
 [submodule "waviser"]
 	path = waviser
 	url = https://github.com/Serkhani/waviser.git
+[submodule "broomin_app_intro"]
+	path = broomin_app_intro
+	url = https://github.com/Serkhani/broomin_app_intro.git
