@@ -1,0 +1,3 @@
+[submodule "waviser"]
+	path = waviser
+	url = https://github.com/Serkhani/waviser.git
